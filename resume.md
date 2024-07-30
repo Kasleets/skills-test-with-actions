@@ -17,7 +17,7 @@ Teach all things *Git*, give away all the stickers, ensure world peace.
 
 Provide _world class support_ to customers on the GitHub platform
 
-## Skills
+## Skills[](url)
 
 ### Education
 
@@ -26,3 +26,4 @@ Developed and maintained various conference talks, online training, and in-perso
 ### Leadership
 
 Managed multiple _asynchronous teams_ in the development, maintenance, and release of various web applications and websites.
+```
